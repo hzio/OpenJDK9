@@ -1,3 +1,4 @@
 build/macosx*/
 cmake-build-debug/
 .idea/
+.DS_Store
